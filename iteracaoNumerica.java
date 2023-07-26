@@ -16,6 +16,7 @@ public class iteracaoNumerica {
 		for (int i=1; i<=numCases; i++) {
 			System.out.printf("%d %d %d%n", i, i * i, i*i*i);
 		}
+		sc.close();
 		
 	}
 
